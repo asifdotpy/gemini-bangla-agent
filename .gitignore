@@ -13,6 +13,7 @@ wheels/
 *.un~
 *.swp
 *.~*
+*~
 
 # Backup files
 *.bak
